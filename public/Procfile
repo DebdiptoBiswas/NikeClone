@@ -1,0 +1,1 @@
+web gunicorn NikeCloneWebsite-main.wsgi:application --log-file -

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "heroku": "^8.10.0",
+    "nginx": "^1.0.8",
+    "python": "^0.0.4"
+  }
+}
